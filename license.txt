@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kaguya Shinomiya 四宮かぐや
+* source:	https://sketchfab.com/3d-models/kaguya-shinomiya-c6bfe0931a984daeb34a5a44a42a9b7a
+* author:	KaguyasamaFA (https://sketchfab.com/kaguyafa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kaguya Shinomiya 四宮かぐや" (https://sketchfab.com/3d-models/kaguya-shinomiya-c6bfe0931a984daeb34a5a44a42a9b7a) by KaguyasamaFA (https://sketchfab.com/kaguyafa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
